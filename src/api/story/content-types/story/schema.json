@@ -32,7 +32,7 @@
       ]
     },
     "excerpt": {
-      "type": "string"
+      "type": "text"
     },
     "story": {
       "type": "blocks"
