@@ -30,6 +30,16 @@
     },
     "content": {
       "type": "richtext"
+    },
+    "thumbnail": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }
